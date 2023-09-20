@@ -171,6 +171,7 @@ img {
     height: 66px;
     object-fit: cover;
     border-radius: 1rem;
+    cursor: pointer;
 }
 
 .purchase__fast {
